@@ -8,5 +8,5 @@ def main():
     harj3.YourAge()
     harj3.AskFavoriteColor()
 
-if __name__ == "__main__":
+if __name__ == "__main__": #moro
     main()
