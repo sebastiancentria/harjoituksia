@@ -12,3 +12,4 @@ def AskFavoriteColor():
     print("Mikä on lempivärisi: ")
     color = input()
     print("Lempivärisi on " + color + "!")
+
